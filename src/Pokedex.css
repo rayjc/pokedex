@@ -1,0 +1,13 @@
+.Pokedex-header {
+    color: grey;
+    margin: 30px;
+}
+
+.Pokedex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 75%;
+    margin: auto;
+    justify-content: center;
+}
